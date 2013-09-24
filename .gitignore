@@ -1,0 +1,6 @@
+.DS_Store
+sftp-config.json
+codekit-config.json
+.sass-cache/
+*.sublime-project
+*.sublime-workspace
